@@ -1,0 +1,11 @@
+adj|big n|drum ?
+n|horse .
+pro:wh|who v:cop|be&3S pro:dem|that ?
+pro:dem|those v:cop|be&PRES n|checker-PL .
+det:num|two n|checker-PL co|yes .
+n|play n|checker-PL ?
+adj|big n|horn ?
+v|get adv:loc|over n:prop|Mommy .
+n|shadow ?
+v:cop|be&PRES pro:dem|those pro:poss:det|your n|checker-PL ?
+

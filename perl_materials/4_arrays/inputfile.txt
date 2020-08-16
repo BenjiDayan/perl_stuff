@@ -1,0 +1,8 @@
+I am an input file.
+Look! I have lines.
+Perhaps they should be counted.
+What do you think?
+
+I wonder if empty lines count as lines, too.  Hmmm.
+
+Oh well, at least I know the end of the file is automatically indicated (using an invisible end of file symbol).
